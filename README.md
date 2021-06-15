@@ -56,7 +56,7 @@ In the notebook, we also show how to load this data.
 ## Citation
 If you find this code useful, please consider citing our work:
 ```bib
-@article{gupta2021correcting,
+@inproceedings{gupta2021correcting,
   title={Correcting Exposure Bias for Link Recommendation},
   author={Gupta, Shantanu and Wang, Hao and Lipton, Zachary C and Wang, Yuyang},
   booktitle = {ICML},
