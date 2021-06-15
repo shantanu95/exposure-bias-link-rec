@@ -59,7 +59,7 @@ If you find this code useful, please consider citing our work:
 @article{gupta2021correcting,
   title={Correcting Exposure Bias for Link Recommendation},
   author={Gupta, Shantanu and Wang, Hao and Lipton, Zachary C and Wang, Yuyang},
-  journal={arXiv preprint arXiv:2106.07041},
-  year={2021}
+  booktitle = {ICML},
+  year      = {2021}
 }
 ```
